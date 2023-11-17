@@ -2,6 +2,6 @@
 
 require_once realpath(__DIR__ . '/vendor/autoload.php');
 use GuzzleHttp\Client;
-echo "Hello World!";
+echo "Hello minions!";
 
 ?>
